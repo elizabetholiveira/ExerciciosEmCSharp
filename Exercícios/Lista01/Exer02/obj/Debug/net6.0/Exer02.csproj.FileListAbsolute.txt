@@ -1,0 +1,15 @@
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\bin\Debug\net6.0\Exer02.exe
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\bin\Debug\net6.0\Exer02.deps.json
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\bin\Debug\net6.0\Exer02.runtimeconfig.json
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\bin\Debug\net6.0\Exer02.dll
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\bin\Debug\net6.0\Exer02.pdb
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.csproj.AssemblyReference.cache
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.AssemblyInfoInputs.cache
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.AssemblyInfo.cs
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.dll
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\refint\Exer02.dll
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.pdb
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\Exer02.genruntimeconfig.cache
+C:\Users\elizabeth.oliveira\Documents\CSharp\Exercícios\Lista01\Exer02\obj\Debug\net6.0\ref\Exer02.dll

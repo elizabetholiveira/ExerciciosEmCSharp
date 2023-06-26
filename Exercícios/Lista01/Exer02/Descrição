@@ -1,0 +1,3 @@
+Receba altura e peso do usuário
+Calcule o IMC e mostre seu valor
+IMC = peso / (altura x altura)

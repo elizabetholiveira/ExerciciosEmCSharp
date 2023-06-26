@@ -1,0 +1,6 @@
+Peso mínimo de peixes antes da multa: 50kg
+Multa: R$4,00
+Leia a variável peso(peso dos peixes) e calcule o excesso
+Gravar na variável excesso a quantidade de quilos além do limite
+Gravar na variável multa o valor da multa que deverá ser paga
+Imprima os dados
